@@ -1,0 +1,3 @@
+Ramya,HeritagePark,ramya,ramya,ramya,4088318124,ramysri15@gmail.com,9724001458,12345678,a5 soundarya apts,49 mamabalam high rd,tngar ,Tamil Nadu,600017,India,456
+Haritha,Building2,Haritha,Haritha,Haritha,12345678,h@scu.edu,987654321,12345678,abc,def,ghi,California,94086,USA,123
+John,ABC,John,John,John,12345678,j@scu.edu,987654321,12345678,chs,bxhbs,bxshb,bxshb,bxhsb,bxsh,funny
